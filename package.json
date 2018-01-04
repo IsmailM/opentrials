@@ -64,7 +64,7 @@
     "good": "^7.0.2",
     "good-console": "^6.1.2",
     "gravatar": "^1.5.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-autoprefixer": "^3.1.1",
     "gulp-cssnano": "^2.1.2",
     "gulp-imagemin": "^3.0.3",
