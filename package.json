@@ -92,8 +92,8 @@
     "pg": "^6.0.1",
     "swagger-client": "^2.1.18",
     "vision": "^4.1.0",
-    "webpack": "^1.13.2",
-    "webpack-stream": "^3.2.0",
+    "webpack": "^2.2.0",
+    "webpack-stream": "^4.0.0",
     "xml2js": "^0.4.17",
     "yar": "^8.0.0"
   }
