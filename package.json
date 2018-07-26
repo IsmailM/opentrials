@@ -51,7 +51,7 @@
     "sinon": "^1.17.5"
   },
   "dependencies": {
-    "bell": "^8.2.0",
+    "bell": "^9.0.0",
     "bluebird": "^3.4.6",
     "blueimp-file-upload": "^9.12.1",
     "bookshelf": "^0.10.1",
@@ -60,7 +60,7 @@
     "bourbon-neat": "^1.7.4",
     "del": "^2.2.2",
     "dotenv": "^2.0.0",
-    "glue": "^4.0.0",
+    "glue": "^5.0.0",
     "good": "^7.0.2",
     "good-console": "^6.1.2",
     "gravatar": "^1.5.2",
@@ -74,7 +74,7 @@
     "gulp-rev-all": "^0.8.24",
     "gulp-sass": "^2.3.2",
     "gulp-sourcemaps": "^1.6.0",
-    "hapi": "^15.0.3",
+    "hapi": "^17.0.0",
     "hapi-auth-cookie": "^6.1.1",
     "hapi-context-credentials": "^2.0.0",
     "hapi-raven": "^4.3.1",
@@ -95,6 +95,6 @@
     "webpack": "^1.13.2",
     "webpack-stream": "^3.2.0",
     "xml2js": "^0.4.17",
-    "yar": "^8.0.0"
+    "yar": "^9.0.0"
   }
 }
