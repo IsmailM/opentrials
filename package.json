@@ -17,7 +17,9 @@
     "migrate": "knex migrate:latest",
     "dev": "gulp dev",
     "prestart": "gulp build",
-    "start": "node --optimize_for_size --max_old_space_size=460 --gc_interval=100 server.js"
+    "start": "node --optimize_for_size --max_old_space_size=460 --gc_interval=100 server.js",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -64,7 +66,7 @@
     "good": "^7.0.2",
     "good-console": "^6.1.2",
     "gravatar": "^1.5.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-autoprefixer": "^3.1.1",
     "gulp-cssnano": "^2.1.2",
     "gulp-imagemin": "^3.0.3",
@@ -95,6 +97,8 @@
     "webpack": "^1.13.2",
     "webpack-stream": "^3.2.0",
     "xml2js": "^0.4.17",
-    "yar": "^8.0.0"
-  }
+    "yar": "^8.0.0",
+    "snyk": "^1.105.0"
+  },
+  "snyk": true
 }
