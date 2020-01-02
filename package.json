@@ -72,7 +72,7 @@
     "gulp-nodemon": "^2.1.0",
     "gulp-rename": "^1.2.2",
     "gulp-rev-all": "^0.8.24",
-    "gulp-sass": "^2.3.2",
+    "gulp-sass": "^3.0.0",
     "gulp-sourcemaps": "^1.6.0",
     "hapi": "^15.0.3",
     "hapi-auth-cookie": "^6.1.1",
